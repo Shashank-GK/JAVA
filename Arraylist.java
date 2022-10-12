@@ -11,5 +11,17 @@ public class Arraylist
         al1.addAll(2,al2);
         System.out.println(al1);
         System.out.println(al1.contains(30));
+        
+         /*Iteration Method */
+        
+        for(int i=0;i<al1.size();i++)
+        {
+            System.out.println(al1.get(i));
+        }
+        
+        /*for(Integer x:al1) 
+        {
+            System.out.println(x);
+        }*/
     }
 }
