@@ -23,5 +23,12 @@ public class Arraylist
         {
             System.out.println(x);
         }*/
+         al1.forEach(n ->show(n));
+    }
+    static void show(int n)
+    {
+    if(n>90)
+    {
+        System.out.println(n);
     }
 }
