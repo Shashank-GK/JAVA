@@ -1,3 +1,4 @@
+/* Considering the negative dimension exception, user should provide the value of 3 sides */
 import java.lang.*;
 import java.util.*;
 public class Areaoftri2 extends Exception
