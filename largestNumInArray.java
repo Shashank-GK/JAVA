@@ -1,3 +1,4 @@
+/* The program is written to find the largest number provided in an array */
 import java.lang.*;
 import java.util.*;
 public class Arraylargestnum 
