@@ -1,5 +1,5 @@
 /* Finding the area of Triangle Considering negative dimension exception handling*/
-
+/* User should provide th base and hight */
 import java.lang.*;
 import java.util.*;
 public class Areaoftri extends Exception
